@@ -2,15 +2,51 @@
   "pages": [
     {
       "name": "page1",
-      "content": "Content for Page 1"
+      "head": "Page 1",
+      "subHead": "Subtitle for Page 1",
+      "content": "Content for Page 1",
+      "media": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg"
+      ],
+      "meta": {
+        "title": "Page 1 - Your Site",
+        "description": "Description for Page 1",
+        "keywords": "keyword1, keyword2, keyword3"
+      }
     },
     {
       "name": "page2",
-      "content": "Content for Page 2"
+      "head": "Page 2",
+      "subHead": "Subtitle for Page 2",
+      "content": "Content for Page 2",
+      "media": [
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg"
+      ],
+      "meta": {
+        "title": "Page 2 - Your Site",
+        "description": "Description for Page 2",
+        "keywords": "keyword4, keyword5, keyword6"
+      }
     },
     {
       "name": "page3",
-      "content": "Content for Page 3"
+      "head": "Page 3",
+      "subHead": "Subtitle for Page 3",
+      "content": "Content for Page 3",
+      "media": [
+        "image7.jpg",
+        "image8.jpg",
+        "image9.jpg"
+      ],
+      "meta": {
+        "title": "Page 3 - Your Site",
+        "description": "Description for Page 3",
+        "keywords": "keyword7, keyword8, keyword9"
+      }
     }
   ]
 }
