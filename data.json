@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "content": "Content for Page 1"
+    },
+    {
+      "name": "page2",
+      "content": "Content for Page 2"
+    },
+    {
+      "name": "page3",
+      "content": "Content for Page 3"
+    }
+  ]
+}
